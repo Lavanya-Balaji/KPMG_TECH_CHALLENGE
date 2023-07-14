@@ -3,7 +3,7 @@ Challenge #2
 
 # Answer: 
 ## Step 1: Install Azure CLI 
-  Download and install azure cli to Windows / Linux Platform  from the link [this](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) 
+  Download and install azure cli to Windows / Linux Platform  from the [link](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) 
 
 ## Step 2: Validate Azure CLI Installation
   validate CLI is installed using the cmd 
