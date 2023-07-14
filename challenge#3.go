@@ -7,9 +7,10 @@
 //key = x/y/z
 //value = a
 
-
-// Step 1 : Open https://go.dev/play/
-// Step 2 : Copy the Below Code and Run in the Above Go Playground
+// Writen in Go Language 
+// Step1: Open the Browser 
+// Step 1 : Open the link https://go.dev/play/ which will help you to run the Go Program 
+// Step 2 : Copy the Below Code and Run in the Go Playground
 
 package main
 
