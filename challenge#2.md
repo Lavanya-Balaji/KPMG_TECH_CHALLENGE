@@ -7,7 +7,8 @@ Challenge #2
 
 ## Step 2: Validate Azure CLI Installation
 	- validate CLI is installed using the cmd 
-	cmd: `az version`
+	``` az version
+    ```
 
 ## Step 3: Authenticate to Azure Subscription
 	- Connect to Azure Account using Azure Cli command
